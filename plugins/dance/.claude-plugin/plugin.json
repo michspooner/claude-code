@@ -1,0 +1,9 @@
+{
+  "name": "dance",
+  "description": "Make Claude dance! Adds a /dance command that outputs an ASCII dance animation.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Anthropic",
+    "email": "support@anthropic.com"
+  }
+}
